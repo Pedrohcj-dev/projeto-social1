@@ -1,15 +1,3 @@
 @charset "UTF-8";
 
 
-body{
-    background-image: url(imagens/fundo-madeira.jpg);
-    background-size: 190vh;
-    width: 97vw;
-    height: 95vh;
-    position: absolute;
-    transform: translate(30%, 30%);
-}
-
-.teste{
-    background-image: url(imagens/frame-iphone.png);
-}
