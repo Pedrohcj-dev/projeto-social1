@@ -36,3 +36,13 @@ main{
     transform: translate(-50%, -50%);
 
 }
+
+#tela{
+    width: 211px;
+    height: 375px;
+    position: relative;
+    left: 17px;
+    top: 64px;
+    background-size: cover;
+
+}
